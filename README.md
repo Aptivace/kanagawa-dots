@@ -5,7 +5,8 @@
 + Fish Theme - [Tide](https://github.com/IlanCosman/tide) needs to be installed manualy
 + Status bar - [Waybar](https://github.com/Alexays/Waybar)
 + Laucher - [Rofi wayland fork](https://archlinux.org/packages/extra/x86_64/rofi-wayland/)
++ Wallpaper daemon - [swww](https://github.com/LGFae/swww)
 
 ### Wallpaper menu
-Works with rofi  
+Works with rofi and swww
 Place ```Wallpapers``` folder to ```~/Pictures```
