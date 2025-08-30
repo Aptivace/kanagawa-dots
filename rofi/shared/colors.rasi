@@ -1,0 +1,10 @@
+* {
+  background: #16161DE6;
+  background-alt: #1F1F28E6;
+  foreground: #DCD7BA;
+  urgent: #DCA561E6;
+  active-window: #76946AE6;
+
+  borderColor: #DCD7BA99;
+
+}
