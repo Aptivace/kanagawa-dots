@@ -8,5 +8,5 @@
 + Wallpaper daemon - [swww](https://github.com/LGFae/swww)
 
 ### Wallpaper menu
-Works with rofi and swww
+Works with rofi and swww  
 Place ```Wallpapers``` folder to ```~/Pictures```
