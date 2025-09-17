@@ -6,6 +6,7 @@
 + Status bar - [Waybar](https://github.com/Alexays/Waybar)
 + Laucher - [Rofi wayland fork](https://archlinux.org/packages/extra/x86_64/rofi-wayland/)
 + Wallpaper daemon - [swww](https://github.com/LGFae/swww)
++ Notification daemon - [dunst](https://github.com/dunst-project/dunst)
 
 ### Wallpaper menu
 Works with rofi and swww  
